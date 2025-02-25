@@ -5,7 +5,7 @@
 ### Clone o repositório
 
 ```
-git clone https://github.com/DevTrail-Squad-4/locadora-project
+git clone https://github.com/HugoGARodrigues/Api---Locadora-de-Carros.git
 ```
 ### Divisão
 Daniel - Camadas Motorista e Funcionario | endPoints: MotoristaController e FuncionarioController.
